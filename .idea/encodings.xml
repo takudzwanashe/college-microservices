@@ -11,6 +11,11 @@
     <file url="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-repository" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/college-notification-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/college-notification-app/college-notification-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/college-notification-app/college-notification-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/college-notification-app/college-notification-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/college-notification-app/college-notification-services" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/college-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/college-payment-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/college-payment-app/college-payment-business" charset="UTF-8" />
