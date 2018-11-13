@@ -1,46 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90be4b2d-e1a5-4fce-ada6-c29cfb5e0166" name="Default Changelist" comment="Project setup correction">
+    <list default="true" id="90be4b2d-e1a5-4fce-ada6-c29cfb5e0166" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-business/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/src/main/java/com/tapstaku/college/accommodation/domain/entities/Hostel.java" beforeDir="false" afterPath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/src/main/java/com/tapstaku/college/accommodation/domain/entities/Hostel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-accomodation-app/college-accomodation-services/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-accomodation-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-accomodation-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-business/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/college-lecturer-domain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/college-lecturer-domain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-services/college-lecturer-services.iml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-services/college-lecturer-services.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/college-lecturer-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-lecturer-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-notification-app/college-notification-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-notification-app/college-notification-business/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-notification-app/college-notification-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-notification-app/college-notification-domain/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-notification-app/college-notification-repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-notification-app/college-notification-repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-notification-app/college-notification-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-notification-app/college-notification-services/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-notification-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-notification-app/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/college-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-payment-app/college-payment-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-payment-app/college-payment-business/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-payment-app/college-payment-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-payment-app/college-payment-domain/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-payment-app/college-payment-repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-payment-app/college-payment-repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-payment-app/college-payment-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-payment-app/college-payment-services/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-payment-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-payment-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-programme-app/college-programme-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-programme-app/college-programme-business/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-programme-app/college-programme-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-programme-app/college-programme-domain/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-programme-app/college-programme-repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-programme-app/college-programme-repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-programme-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-programme-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-student-app/college-student-business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/college-student-business/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/college-programme-app/college-programme-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-programme-app/college-programme-services/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-student-app/college-student-repository/college-student-repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/college-student-repository/college-student-repository.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-student-app/college-student-repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/college-student-repository/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-student-app/college-student-services/college-student-services.iml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/college-student-services/college-student-services.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-student-app/college-student-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/college-student-services/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/college-student-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-student-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/college-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/college-utils/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -134,17 +104,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="23" />
+          <entry key="java" value="26" />
           <entry key="md" value="3" />
-          <entry key="xml" value="214" />
+          <entry key="xml" value="236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="26" />
           <entry key="Markdown" value="3" />
-          <entry key="XML" value="214" />
+          <entry key="XML" value="236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -160,7 +130,7 @@
           <entry key="ft" value="66" />
           <entry key="java" value="734" />
           <entry key="txt" value="68" />
-          <entry key="xml" value="196" />
+          <entry key="xml" value="202" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -168,31 +138,29 @@
           <entry key="JAVA" value="734" />
           <entry key="PLAIN_TEXT" value="74" />
           <entry key="VTL" value="66" />
-          <entry key="XML" value="196" />
+          <entry key="XML" value="202" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state relative-caret-position="287">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/src/main/java/com/tapstaku/college/accommodation/domain/entities/Hostel.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -256,20 +224,13 @@
         <option value="$PROJECT_DIR$/college-utils/src/main/java/com/tapstaku/college/utils/enums/UserAction.java" />
         <option value="$PROJECT_DIR$/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelLocationType.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/pom.xml" />
-        <option value="$PROJECT_DIR$/college-programme-app/college-programme-services/pom.xml" />
         <option value="$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/src/main/java/com/tapstaku/college/accommodation/domain/entities/Hostel.java" />
-        <option value="$PROJECT_DIR$/college-parent/pom.xml" />
         <option value="$PROJECT_DIR$/college-notification-app/pom.xml" />
-        <option value="$PROJECT_DIR$/college-lecturer-app/pom.xml" />
         <option value="$PROJECT_DIR$/college-accomodation-app/pom.xml" />
         <option value="$PROJECT_DIR$/college-payment-app/pom.xml" />
-        <option value="$PROJECT_DIR$/college-programme-app/pom.xml" />
-        <option value="$PROJECT_DIR$/college-student-app/pom.xml" />
         <option value="$PROJECT_DIR$/college-utils/pom.xml" />
         <option value="$PROJECT_DIR$/college-student-app/college-student-services/pom.xml" />
         <option value="$PROJECT_DIR$/college-student-app/college-student-repository/pom.xml" />
-        <option value="$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml" />
         <option value="$PROJECT_DIR$/college-student-app/college-student-business/pom.xml" />
         <option value="$PROJECT_DIR$/college-programme-app/college-programme-repository/pom.xml" />
         <option value="$PROJECT_DIR$/college-programme-app/college-programme-domain/pom.xml" />
@@ -288,6 +249,13 @@
         <option value="$PROJECT_DIR$/college-notification-app/college-notification-repository/pom.xml" />
         <option value="$PROJECT_DIR$/college-notification-app/college-notification-services/pom.xml" />
         <option value="$PROJECT_DIR$/college-payment-app/college-payment-business/pom.xml" />
+        <option value="$PROJECT_DIR$/college-student-app/pom.xml" />
+        <option value="$PROJECT_DIR$/college-lecturer-app/pom.xml" />
+        <option value="$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/college-programme-app/pom.xml" />
+        <option value="$PROJECT_DIR$/college-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/college-programme-app/college-programme-services/pom.xml" />
+        <option value="$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml" />
         <option value="$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/pom.xml" />
       </list>
     </option>
@@ -351,40 +319,6 @@
               <item name="college" type="462c0819:PsiDirectoryNode" />
               <item name="college-accomodation-app" type="462c0819:PsiDirectoryNode" />
               <item name="college-accomodation-domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="college" type="b2602c69:ProjectViewProjectNode" />
-              <item name="college" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-app" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="college" type="b2602c69:ProjectViewProjectNode" />
-              <item name="college" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-app" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="college" type="b2602c69:ProjectViewProjectNode" />
-              <item name="college" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-app" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="college" type="b2602c69:ProjectViewProjectNode" />
-              <item name="college" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-app" type="462c0819:PsiDirectoryNode" />
-              <item name="college-accomodation-domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="college" type="b2602c69:ProjectViewProjectNode" />
@@ -459,6 +393,11 @@
             <path>
               <item name="college" type="b2602c69:ProjectViewProjectNode" />
               <item name="college" type="462c0819:PsiDirectoryNode" />
+              <item name="college-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="college" type="b2602c69:ProjectViewProjectNode" />
+              <item name="college" type="462c0819:PsiDirectoryNode" />
               <item name="college-payment-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -506,7 +445,7 @@
               <item name="college" type="b2602c69:ProjectViewProjectNode" />
               <item name="college" type="462c0819:PsiDirectoryNode" />
               <item name="college-programme-app" type="462c0819:PsiDirectoryNode" />
-              <item name="college-programme-repository" type="462c0819:PsiDirectoryNode" />
+              <item name="college-programme-services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="college" type="b2602c69:ProjectViewProjectNode" />
@@ -553,7 +492,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542100184734" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542101545962" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -610,7 +549,7 @@
       <workItem from="1542017798517" duration="14810000" />
       <workItem from="1542094904431" duration="202000" />
       <workItem from="1542095147803" duration="600000" />
-      <workItem from="1542097108491" duration="3076000" />
+      <workItem from="1542097108491" duration="4436000" />
     </task>
     <task id="LOCAL-00001" summary="Created Develop Branch">
       <created>1542010668509</created>
@@ -633,11 +572,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542093336522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Project setup correction">
+      <created>1542100233978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542100233978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41350000" />
+    <option name="totallyTimeSpent" value="42710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
@@ -695,13 +641,6 @@
     <entry file="file://$PROJECT_DIR$/college-student-app/college-student-services/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/src/main/java/com/tapstaku/college/student/domain/entities/RegisteredStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/src/main/java/com/tapstaku/college/student/domain/entities/RegistrationTracker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -758,21 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/src/main/java/com/tapstaku/college/student/domain/entities/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-programme-app/college-programme-services/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -811,30 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/college-parent/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-notification-app/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-lecturer-app/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/college-accomodation-app/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -844,22 +744,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/college-payment-app/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-programme-app/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -892,14 +776,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-repository/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-services/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -979,50 +855,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/college-programme-app/college-programme-domain/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/college-student-app/college-student-services/college-student-services.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/college-payment-app/college-payment-repository/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-programme-app/college-programme-repository/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-business/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-repository/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1038,26 +874,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/src/main/java/com/tapstaku/college/accommodation/domain/entities/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/college-student-app/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/college-utils/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/src/main/java/com/tapstaku/college/accommodation/domain/entities/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1071,11 +899,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-business/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/src/main/java/com/tapstaku/college/student/domain/entities/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/src/main/java/com/tapstaku/college/student/domain/entities/RegisteredStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-repository/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-student-app/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-services/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-lecturer-app/college-lecturer-domain/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-programme-app/college-programme-repository/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-programme-app/college-programme-domain/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-notification-app/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-lecturer-app/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-parent/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-programme-app/college-programme-services/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-programme-app/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/college-student-app/college-student-domain/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/college-accomodation-app/college-accomodation-domain/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="336">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>

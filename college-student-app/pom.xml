@@ -17,8 +17,6 @@
         <module>college-student-business</module>
         <module>college-student-repository</module>
         <module>college-student-services</module>
-        <module>college-student-repository</module>
-        <module>college-student-services</module>
     </modules>
 
 

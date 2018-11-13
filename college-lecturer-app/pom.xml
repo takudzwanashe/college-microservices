@@ -15,10 +15,8 @@
     <modules>
         <module>college-lecturer-repository</module>
         <module>college-lecturer-business</module>
-        <module>college-lecturer-services</module>
         <module>college-lecturer-domain</module>
         <module>college-lecturer-services</module>
-        <module>college-lecturer-domain</module>
     </modules>
 
 
