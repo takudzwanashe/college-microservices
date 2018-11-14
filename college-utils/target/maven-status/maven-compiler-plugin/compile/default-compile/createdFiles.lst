@@ -1,5 +1,6 @@
 com/tapstaku/college/utils/enums/RegistrationStatus.class
 com/tapstaku/college/utils/enums/HostelGenderType.class
+com/tapstaku/college/utils/keygen/KeyGen.class
 com/tapstaku/college/utils/enums/UserAction.class
 com/tapstaku/college/utils/enums/HostelLocationType.class
 com/tapstaku/college/utils/enums/HostelStatus.class
