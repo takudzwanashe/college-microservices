@@ -1,6 +1,8 @@
-/home/taku/Desktop/EcoFarmer/college/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelLocationType.java
-/home/taku/Desktop/EcoFarmer/college/college-utils/src/main/java/com/tapstaku/college/utils/keygen/KeyGen.java
-/home/taku/Desktop/EcoFarmer/college/college-utils/src/main/java/com/tapstaku/college/utils/enums/RegistrationStatus.java
-/home/taku/Desktop/EcoFarmer/college/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelGenderType.java
-/home/taku/Desktop/EcoFarmer/college/college-utils/src/main/java/com/tapstaku/college/utils/enums/UserAction.java
-/home/taku/Desktop/EcoFarmer/college/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelStatus.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/UserAction.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelStatus.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelGenderType.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/RoomType.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/keygen/KeyGen.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/HostelLocationType.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/BedType.java
+/home/tapiwanashe/Documents/projects/personal/college-microservices/college-utils/src/main/java/com/tapstaku/college/utils/enums/RegistrationStatus.java
